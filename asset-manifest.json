@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.af6d9b4f.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.b018b074.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.b018b074.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.cbb3f65e.js",
+    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.cbb3f65e.js.map",
+    "static/js/2.580f0385.chunk.js": "/PersonalWebsite/static/js/2.580f0385.chunk.js",
+    "static/js/2.580f0385.chunk.js.map": "/PersonalWebsite/static/js/2.580f0385.chunk.js.map",
+    "index.html": "/PersonalWebsite/index.html",
+    "precache-manifest.e20b2a1cc1998e5927377789b1b615d3.js": "/PersonalWebsite/precache-manifest.e20b2a1cc1998e5927377789b1b615d3.js",
+    "service-worker.js": "/PersonalWebsite/service-worker.js",
+    "static/css/main.af6d9b4f.chunk.css.map": "/PersonalWebsite/static/css/main.af6d9b4f.chunk.css.map",
+    "static/js/2.580f0385.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.580f0385.chunk.js.LICENSE.txt",
+    "static/js/main.b018b074.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/main.b018b074.chunk.js.LICENSE.txt",
+    "static/media/CHA.png": "/PersonalWebsite/static/media/CHA.07e1c385.png",
+    "static/media/Student.png": "/PersonalWebsite/static/media/Student.bd0215f2.png",
+    "static/media/hangxia.png": "/PersonalWebsite/static/media/hangxia.147eb070.png",
+    "static/media/resume.pdf": "/PersonalWebsite/static/media/resume.cc46a23f.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbb3f65e.js",
+    "static/js/2.580f0385.chunk.js",
+    "static/css/main.af6d9b4f.chunk.css",
+    "static/js/main.b018b074.chunk.js"
+  ]
+}
